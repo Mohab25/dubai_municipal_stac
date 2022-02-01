@@ -1,6 +1,6 @@
 # Dubai_municipal_stac
 
-package for generating stac catalog for Dubai municipality
+package for generating stac catalog for Dubai municipality, visit https://stacspec.org/
 
 # Implementation
 
