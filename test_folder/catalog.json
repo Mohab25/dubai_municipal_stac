@@ -1,0 +1,17 @@
+{
+    "id": "catalogOL05SLU",
+    "stac_version": "1.0.0-beta.2",
+    "description": "without description",
+    "links": [
+        {
+            "rel": "root",
+            "href": ".\\catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "child",
+            "href": ".\\collectionOSJP9PN\\collection.json",
+            "type": "application/json"
+        }
+    ]
+}
